@@ -17,7 +17,7 @@
 
 ---
 [Project 4 Title](http://example.com/)
-<img src="images/TrackHawk.png?raw=true"/>
+<img src="images/Trackhawk.png?raw=true"/>
 
 ---
 [Project 5 Title](http://example.com/)
