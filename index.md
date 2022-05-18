@@ -24,10 +24,12 @@
 <img src="images/GalaxyDog.png?raw=true"/>
 
 ---
-[Project 6 Title](http://example.com/)
+[Project 4 Title](http://example.com/)
 <img src="images/ChiefKeef.png?raw=true"/>
 
 ---
+[Project 4 Title](http://example.com/)
+<img src="images/Yat.png?raw=true"/>
 
 ### Category Name 2
 
